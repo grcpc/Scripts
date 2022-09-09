@@ -1,0 +1,1 @@
+local messagebox = messagebox or function(a,b) return ask_prompt(b,a,"This option is not ready for now, i will be doing a OP Fake Ban, thanks for your patience.","Yo!", 0)
