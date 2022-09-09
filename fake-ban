@@ -1,1 +1,3 @@
-local messagebox = messagebox or function(a,b) return ask_prompt(b,a,"This option is not ready for now, i will be doing a OP Fake Ban, thanks for your patience.","Yo!", 0)
+reason = "Ilo just banned you for over a year, now go cry."
+length = 365
+game.Players.LocalPlayer:Kick("\nYou've Been Banned By: RAC\nFor The Reason of: " .. reason .. "\n" .. length .. " Days Remaining Until Unban")
