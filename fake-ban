@@ -1,3 +1,0 @@
-reason = "Ilo just banned you for over a year, now go cry."
-length = 365
-game.Players.LocalPlayer:Kick("\nYou've Been Banned By: RAC\nFor The Reason of: " .. reason .. "\n" .. length .. " Days Remaining Until Unban")
